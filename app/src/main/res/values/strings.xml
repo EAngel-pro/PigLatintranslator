@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pig Latin translator</string>
+    <string name="original_input">Enter a word: </string>
+    <string name="translate">Translate</string>
+</resources>
