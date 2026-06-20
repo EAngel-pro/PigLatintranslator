@@ -10,8 +10,8 @@ android {
         applicationId = "com.eangelpro.piglatintranslator"
         minSdk = 21
         targetSdk = 35
-        versionCode = 3
-        versionName = "1.01"
+        versionCode = 4
+        versionName = "1.02"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
